@@ -1,3 +1,7 @@
 # 127.0.0.1 google.pt
-127.0.0.1 google.pt
 127.0.0.1 friv.com
+::1 friv.com
+127.0.0.1 poki.com
+::1 poki.com
+127.0.0.1 shellshock.io
+::1 shellshock.io
