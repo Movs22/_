@@ -1,6 +1,9 @@
 # 0.0.0.0 google.pt
 0.0.0.0 friv.com
 ::0 friv.com
+0.0.0.0 www.friv.com
+::0 www.friv.com
+
 0.0.0.0 poki.com
 ::0 poki.com
 0.0.0.0 shellshock.io
@@ -13,9 +16,64 @@
 ::0 shell-shockers.cc
 0.0.0.0 now.gg
 ::0 now.gg
+
 0.0.0.0 roblox.com
 ::0 roblox.com
+0.0.0.0 create.roblox.com
+::0 create.roblox.com
+0.0.0.0 api.roblox.com
+::0 api.roblox.com
+
+0.0.0.0 www.roblox.com
+0.0.0.0 web.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 economy.roblox.com
+0.0.0.0 setup.roblox.com
+0.0.0.0 clientsettings.roblox.com
+0.0.0.0 catalog.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 auth.roblox.com
+0.0.0.0 accountsettings.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 chat.roblox.com
+0.0.0.0 thumbnails.roblox.com
+::0 www.roblox.com
+::0 web.roblox.com
+::0 api.roblox.com
+::0 economy.roblox.com
+::0 setup.roblox.com
+::0 clientsettings.roblox.com
+::0 catalog.roblox.com
+::0 games.roblox.com
+::0 auth.roblox.com
+::0 accountsettings.roblox.com
+::0 friends.roblox.com
+::0 presence.roblox.com
+::0 chat.roblox.com
+::0 thumbnails.roblox.com
+
 0.0.0.0 discord.com
 ::0 discord.com
 0.0.0.0 api.discord.com
 ::0 api.discord.com
+0.0.0.0 kongregate.com
+::0 kongregate.com
+0.0.0.0 classic.minecraft.net
+::0 classic.minecraft.net
+0.0.0.0 games.crazygames.com
+::0 games.crazygames.com
+
+0.0.0.0 steamcommunity.com
+::0 steamcommunity.com
+0.0.0.0 store.steampowered.com
+::0 store.steampowered.com
+0.0.0.0 steampowered.com
+::0 steampowered.com
+
+0.0.0.0 store.epicgames.com
+::0 store.epicgames.com
+0.0.0.0 epicgames.com
+::0 epicgames.com
+0.0.0.0 www.epicgames.com
+::0 www.epicgames.com
