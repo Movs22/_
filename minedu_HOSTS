@@ -77,3 +77,6 @@
 ::0 epicgames.com
 0.0.0.0 www.epicgames.com
 ::0 www.epicgames.com
+
+0.0.0.0 a.poki-cdn.com
+::0 a.poki-cdn.com
