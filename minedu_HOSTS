@@ -86,3 +86,10 @@
 
 0.0.0.0 a.poki-cdn.com
 ::0 a.poki-cdn.com
+
+0.0.0.0 browser.lol
+::0 browser.lol
+0.0.0.0 www.browserling.com
+::0 www.browserling.com
+0.0.0.0 browserling.com
+::0 browserling.com
