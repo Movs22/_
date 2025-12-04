@@ -89,6 +89,13 @@
 
 0.0.0.0 browser.lol
 ::0 browser.lol
+
+0.0.0.0 gamebol.com
+::0 gamebol.com
+
+0.0.0.0 krunker.io
+::0 krunker.io
+::0 browser.lol
 0.0.0.0 www.browserling.com
 ::0 www.browserling.com
 0.0.0.0 browserling.com
