@@ -100,3 +100,10 @@
 ::0 www.browserling.com
 0.0.0.0 browserling.com
 ::0 browserling.com
+
+0.0.0.0 www.jogos360.com.br
+::0 www.jogos360.com.br
+0.0.0.0 www.1001jogos.pt
+::0 www.1001jogos.pt
+0.0.0.0 html5.gamedistribution.com
+::0 html5.gamedistribution.com/
