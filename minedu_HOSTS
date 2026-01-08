@@ -107,3 +107,13 @@
 ::0 www.1001jogos.pt
 0.0.0.0 html5.gamedistribution.com
 ::0 html5.gamedistribution.com/
+
+0.0.0.0 en.akinator.com
+::0 en.akinator.com
+0.0.0.0 pt.akinator.com
+::0 pt.akinator.com
+
+0.0.0.0 frivjogosonline.com.br
+::0 frivjogosonline.com.br
+0.0.0.0 www.frivjogosonline.com.br
+::0 www.frivjogosonline.com.br
